@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header {
+  margin-top: 20px;
+  align-items: baseline;
+}
+
+.site-logo-div {
+  display: inline-block;
+}
+.site-logo-div h2 {
+  float:left;
+}
+
+.site-logo-div img {
+  width: 10%;
+  height: 10%;
+  float:left;
+}
+
+.search-box{
+  display: inline-block;
+  margin:10px;
+  clear: both;
+  align-self: center;
+}
+
+.btnLogin {
+  align-self: center;
+}
+
