@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(5, 31, 36);
 }
 
 code {
@@ -15,6 +16,7 @@ code {
 .header {
   margin-top: 20px;
   align-items: baseline;
+  background-color: rgb(143, 248, 225);
 }
 
 .site-logo-div {
